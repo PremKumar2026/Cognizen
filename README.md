@@ -18,12 +18,15 @@ Adaptive Difficulty Levels: Dynamically adjust difficulty levels based on user p
 
 Daily Mind Boosts: Receive daily doses of quick mental exercises for a daily cognitive boost.
 
-X Firebase Integration
-X Login Page 
-X Home Page
-X Quiz Page
-  randomly generating quizzes
-  Polishing UI/UX
+X Firebase Integration <br/>
+X Login Page <br/>
+X Home Page <br/>
+X Quiz Page <br/>
+  randomly generating quizzes <br/>
+  Polishing UI/UX <br/>
+
+   
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/967f0f9675aa48399a47aeb009b96e98-with-play.gif">
 ## Screens & Navigation Flows:
 Onboarding:
 Introduction to Cognizen's mission and benefits.
